@@ -97,25 +97,11 @@
 
 ---
 
-## 🎓 Academic Context
-
 Developed as part of:  
 **IT1040 – Fundamentals of Computing**  
 Sri Lanka Institute of Information Technology (SLIIT)  
 Year 1, Semester 1
 
----
-
-## 👥 Team Members
-
-- Perera B.P.N. (IT24100327)
-- Pathberiya H.A.
-- Pabasara H.E.T.
-- De Silva L.J.
-- V. Thuvarkan
-- Munasinghe T.H.
-
----
 
 ## 📜 License
 
