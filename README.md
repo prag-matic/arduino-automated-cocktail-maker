@@ -1,7 +1,5 @@
 # 🍹 Automated Cocktail Maker (Arduino)
-
-> An Arduino-based automated cocktail-making machine designed to dispense consistent and accurate mocktails using pumps, relays, sensors, and a simple menu-driven user interface.  
-> This project combines hardware + embedded software to automate drink preparation while preventing spills using cup detection.
+An Arduino-based automated cocktail-making machine designed to dispense consistent and accurate mocktails using pumps, relays, sensors, and a simple menu-driven user interface. This project combines hardware + embedded software to automate drink preparation while preventing spills using cup detection.
 
 ## 📌 Features
 
