@@ -30,7 +30,8 @@
 7. Returns to main menu  
 
 ### 🖼 System Architecture Diagram
-![project_diagram](/diagrams/Diagram for project.png)
+![project_diagram](diagrams/project_hardware_diagram.png)
+
 
 ---
 
