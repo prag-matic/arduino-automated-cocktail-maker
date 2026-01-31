@@ -3,8 +3,6 @@
 > An Arduino-based automated cocktail-making machine designed to dispense consistent and accurate mocktails using pumps, relays, sensors, and a simple menu-driven user interface.  
 > This project combines hardware + embedded software to automate drink preparation while preventing spills using cup detection.
 
----
-
 ## 📌 Features
 
 - **Menu-based selection** using 16x2 I2C LCD
@@ -15,8 +13,6 @@
 - **Relay-controlled water pumps**
 - Visual **LED indicator** for cup detection
 - **Consistent dispensing** using timed pump control
-
----
 
 ## 🧠 System Overview
 
@@ -31,9 +27,6 @@
 
 ### 🖼 System Architecture Diagram
 ![project_diagram](diagrams/project_hardware_diagram.png)
-
-
----
 
 ## 🔧 Hardware Components
 
@@ -50,15 +43,11 @@
 | Silicone Tubes | Liquid channels |
 | LED Indicator | Visual cup detection feedback |
 
----
-
 ## 🧪 Software & Tools
 
 - Arduino IDE
 - C / C++ (Embedded)
 - `LiquidCrystal_I2C` Library
-
----
 
 ## 🔌 Pin Configuration
 
@@ -73,8 +62,6 @@
 | Ultrasonic Echo | D10 |
 | Cup Detection LED | D8 |
 
----
-
 ## 🧠 Key Logic Highlights
 
 - **Debounced buttons** using `millis()`
@@ -82,8 +69,6 @@
 - **Long press** → confirm selection
 - **Cup detection threshold**: ≤ 10 cm
 - **Safety lock**: dispensing only starts if cup is detected
-
----
 
 ## 🚀 How to Run
 
